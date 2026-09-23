@@ -37,6 +37,7 @@ DISCORD_TOKEN=your_token_here
 COMMAND_PREFIX=!
 
 >Run:
+
 Bash
 python main.py
 
