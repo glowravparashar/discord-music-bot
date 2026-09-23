@@ -36,12 +36,12 @@ Code snippet
 DISCORD_TOKEN=your_token_here
 COMMAND_PREFIX=!
 
-Run:
+>Run:
 Bash
 python main.py
 
 
-To push this:
+>To push this:
 
 ```bash
 git add README.md
